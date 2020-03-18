@@ -1,4 +1,4 @@
-# Programme réaliser par Kellian 
+# Programme réaliser par Naashy 
 # Date : 18/03/2020
 # Résolution de 2 Equations à 2 Inconnues
 # ax + by = c
