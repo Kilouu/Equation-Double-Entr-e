@@ -1,2 +1,3 @@
 # Equation-Double-Entree
-Programme Python qui résoux des équations a Double Entrée
+Programme Python qui résoux des équations a Double Entrée 
+Devoir Lycée
