@@ -37,3 +37,4 @@ else:
 # Fin ©
 # My GitHub : https://github.com/Naashy
 # My Discord : Naashy#8434
+# Devoir Lycée
